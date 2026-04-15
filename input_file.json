@@ -1,0 +1,16 @@
+{
+  "project_name": "JSON Converter",
+  "version": 1.0,
+  "is_active": true,
+  "metadata": null,
+  "supported_formats": [
+    "json",
+    "xml",
+    "yaml"
+  ],
+  "author_details": {
+    "name": "Nowfal",
+    "id": 101,
+    "verified": false
+  }
+}

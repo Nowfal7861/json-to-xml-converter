@@ -1,0 +1,16 @@
+<object>
+    <string name = "project_name">JSON Converter</string>
+    <number name = "version">1.0</number>
+    <boolean name = "is_active">true</boolean>
+    <null name = "metadata"/>
+    <array name = "supported_formats">
+        <string>json</string>
+        <string>xml</string>
+        <string>yaml</string>
+    </array>
+    <object name = "author_details">
+        <string name = "name">Nowfal</string>
+        <number name = "id">101</number>
+        <boolean name = "verified">false</boolean>
+    </object>
+</object>
